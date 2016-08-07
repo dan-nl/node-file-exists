@@ -1,6 +1,6 @@
 {
   "name": "node-file-exists",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "determines whether or not a file exists on the given filePath",
   "scripts": {
     "jshint": "jshint ."
