@@ -1,0 +1,17 @@
+{
+  "name": "node-file-exists",
+  "version": "0.0.0",
+  "description": "determines whether or not a file exists on the given filePath",
+  "scripts": {
+    "jshint": "jshint ."
+  },
+  "author": "dan entous",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dan-nl/node-create-file.git"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.2"
+  }
+}
